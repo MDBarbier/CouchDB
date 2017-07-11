@@ -1,0 +1,10 @@
+D:\LocalCode\mattUtility\noSQL\bin\Release\noSQL.exe.config
+D:\LocalCode\mattUtility\noSQL\bin\Release\noSQL.exe
+D:\LocalCode\mattUtility\noSQL\bin\Release\noSQL.pdb
+D:\LocalCode\mattUtility\noSQL\bin\Release\MVVMBase.dll
+D:\LocalCode\mattUtility\noSQL\bin\Release\Newtonsoft.Json.dll
+D:\LocalCode\mattUtility\noSQL\bin\Release\MVVMBase.pdb
+D:\LocalCode\mattUtility\noSQL\bin\Release\Newtonsoft.Json.xml
+D:\LocalCode\mattUtility\noSQL\obj\Release\noSQL.csprojResolveAssemblyReference.cache
+D:\LocalCode\mattUtility\noSQL\obj\Release\noSQL.exe
+D:\LocalCode\mattUtility\noSQL\obj\Release\noSQL.pdb

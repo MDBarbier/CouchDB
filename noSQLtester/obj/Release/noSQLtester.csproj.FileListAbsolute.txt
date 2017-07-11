@@ -1,0 +1,13 @@
+D:\LocalCode\mattUtility\noSQLtester\bin\Release\noSQLtester.exe.config
+D:\LocalCode\mattUtility\noSQLtester\bin\Release\noSQLtester.exe
+D:\LocalCode\mattUtility\noSQLtester\bin\Release\noSQLtester.pdb
+D:\LocalCode\mattUtility\noSQLtester\obj\Release\MainWindow.g.cs
+D:\LocalCode\mattUtility\noSQLtester\obj\Release\App.g.cs
+D:\LocalCode\mattUtility\noSQLtester\obj\Release\noSQLtester_MarkupCompile.cache
+D:\LocalCode\mattUtility\noSQLtester\obj\Release\noSQLtester_MarkupCompile.lref
+D:\LocalCode\mattUtility\noSQLtester\obj\Release\MainWindow.baml
+D:\LocalCode\mattUtility\noSQLtester\obj\Release\noSQLtester.g.resources
+D:\LocalCode\mattUtility\noSQLtester\obj\Release\noSQLtester.Properties.Resources.resources
+D:\LocalCode\mattUtility\noSQLtester\obj\Release\noSQLtester.csproj.GenerateResource.Cache
+D:\LocalCode\mattUtility\noSQLtester\obj\Release\noSQLtester.exe
+D:\LocalCode\mattUtility\noSQLtester\obj\Release\noSQLtester.pdb

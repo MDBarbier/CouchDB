@@ -1,0 +1,10 @@
+D:\LocalCode\mattUtility\noSQL-addViews\bin\Debug\noSQL-addViews.exe.config
+D:\LocalCode\mattUtility\noSQL-addViews\bin\Debug\noSQL-addViews.exe
+D:\LocalCode\mattUtility\noSQL-addViews\bin\Debug\noSQL-addViews.pdb
+D:\LocalCode\mattUtility\noSQL-addViews\bin\Debug\MVVMBase.dll
+D:\LocalCode\mattUtility\noSQL-addViews\bin\Debug\Newtonsoft.Json.dll
+D:\LocalCode\mattUtility\noSQL-addViews\bin\Debug\MVVMBase.pdb
+D:\LocalCode\mattUtility\noSQL-addViews\bin\Debug\Newtonsoft.Json.xml
+D:\LocalCode\mattUtility\noSQL-addViews\obj\Debug\noSQL-addViews.csprojResolveAssemblyReference.cache
+D:\LocalCode\mattUtility\noSQL-addViews\obj\Debug\noSQL-addViews.exe
+D:\LocalCode\mattUtility\noSQL-addViews\obj\Debug\noSQL-addViews.pdb
